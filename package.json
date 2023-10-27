@@ -1,0 +1,22 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Protecto con SASS y GULP",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoconti1901/Festival-de-Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Nico Conti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoconti1901/Festival-de-Musica/issues"
+  }
+}
