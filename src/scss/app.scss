@@ -1,5 +1,3 @@
-@import "base/_variables";
+@use "base";
+@use "layout";
 
-body{
-    background-color: $rojo;
-}
